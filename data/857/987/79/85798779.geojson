@@ -18,7 +18,6 @@
     "geom:bbox":"4.55658594597,51.9566539035,4.58380570782,51.9755353938",
     "geom:latitude":51.966254,
     "geom:longitude":4.570024,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":51.966488,
     "lbl:longitude":4.569601,
@@ -110,10 +109,7 @@
         }
     ],
     "wof:id":85798779,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362573,
+    "wof:lastmodified":1603260892,
     "wof:name":"Zevenkamp",
     "wof:parent_id":1108805725,
     "wof:placetype":"neighbourhood",

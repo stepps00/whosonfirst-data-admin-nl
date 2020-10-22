@@ -9,7 +9,6 @@
     "geom:bbox":"3.79143761647,51.1745080289,3.86894775391,51.2146344641",
     "geom:latitude":51.198418,
     "geom:longitude":3.831987,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":51.214572,
     "lbl:longitude":3.82117,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85862087,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362580,
+    "wof:lastmodified":1603260897,
     "wof:name":"Molenstukken",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

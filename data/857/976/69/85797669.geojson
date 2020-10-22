@@ -18,7 +18,6 @@
     "geom:bbox":"5.07493030119,51.5668524781,5.087248408,51.5768036278",
     "geom:latitude":51.571427,
     "geom:longitude":5.081431,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":51.571315,
     "lbl:longitude":5.083185,
@@ -103,10 +102,7 @@
         }
     ],
     "wof:id":85797669,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362572,
+    "wof:lastmodified":1603260891,
     "wof:name":"Het Goirke",
     "wof:parent_id":1158801787,
     "wof:placetype":"neighbourhood",

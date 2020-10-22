@@ -18,7 +18,6 @@
     "geom:bbox":"4.46747173271,51.9322346038,4.4804719948,51.9422586793",
     "geom:latitude":51.937833,
     "geom:longitude":4.473236,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":51.937952,
     "lbl:longitude":4.473591,
@@ -111,10 +110,7 @@
         }
     ],
     "wof:id":85859823,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362583,
+    "wof:lastmodified":1603260900,
     "wof:name":"Liskwartier",
     "wof:parent_id":1108804843,
     "wof:placetype":"neighbourhood",

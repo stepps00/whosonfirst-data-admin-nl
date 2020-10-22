@@ -18,7 +18,6 @@
     "geom:bbox":"4.45760107917,51.9081446748,4.47691927048,51.9163539274",
     "geom:latitude":51.911641,
     "geom:longitude":4.46846,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":51.911548,
     "lbl:longitude":4.469602,
@@ -116,10 +115,7 @@
         }
     ],
     "wof:id":85859799,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362581,
+    "wof:lastmodified":1603260898,
     "wof:name":"Dijkzigt",
     "wof:parent_id":1108804841,
     "wof:placetype":"neighbourhood",

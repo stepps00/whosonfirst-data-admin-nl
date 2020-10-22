@@ -18,7 +18,6 @@
     "geom:bbox":"4.40331630441,52.1395249945,4.42376682561,52.1525622539",
     "geom:latitude":52.145524,
     "geom:longitude":4.413345,
-    "gn:id":"",
     "gn:latitude":52.1471,
     "gn:longitude":4.41279,
     "iso:country":"NL",
@@ -114,10 +113,7 @@
         }
     ],
     "wof:id":85797419,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362575,
+    "wof:lastmodified":1603260893,
     "wof:name":"Groot Deijleroord en Ter Weer",
     "wof:parent_id":1158831323,
     "wof:placetype":"neighbourhood",

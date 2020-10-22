@@ -18,7 +18,6 @@
     "geom:bbox":"4.37930946546,51.945472281,4.41260862528,51.965126402",
     "geom:latitude":51.954318,
     "geom:longitude":4.393784,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":51.941576,
     "lbl:longitude":4.40489,
@@ -103,10 +102,7 @@
         }
     ],
     "wof:id":85859705,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362581,
+    "wof:lastmodified":1603260897,
     "wof:name":"Noord Kethel",
     "wof:parent_id":1108805713,
     "wof:placetype":"neighbourhood",

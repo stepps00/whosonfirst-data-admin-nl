@@ -18,7 +18,6 @@
     "geom:bbox":"4.46695469075,51.8895823374,4.49563114418,51.8991688416",
     "geom:latitude":51.894405,
     "geom:longitude":4.484443,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":51.894152,
     "lbl:longitude":4.484024,
@@ -113,10 +112,7 @@
         }
     ],
     "wof:id":85859851,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362583,
+    "wof:lastmodified":1603260899,
     "wof:name":"Tarwewijk",
     "wof:parent_id":1108804837,
     "wof:placetype":"neighbourhood",

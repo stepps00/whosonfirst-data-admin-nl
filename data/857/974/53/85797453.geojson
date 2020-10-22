@@ -18,7 +18,6 @@
     "geom:bbox":"6.096308657,52.516602759,6.11717055972,52.5258628443",
     "geom:latitude":52.521942,
     "geom:longitude":6.107237,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":52.525289,
     "lbl:longitude":6.140188,
@@ -111,10 +110,7 @@
         }
     ],
     "wof:id":85797453,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362575,
+    "wof:lastmodified":1603260893,
     "wof:name":"Hogenkamp",
     "wof:parent_id":1158805787,
     "wof:placetype":"neighbourhood",

@@ -17,7 +17,6 @@
     "geom:bbox":"4.25504663886,52.0295709489,4.28001562716,52.043341388",
     "geom:latitude":52.036586,
     "geom:longitude":4.267384,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":52.036186,
     "lbl:longitude":4.266335,
@@ -108,10 +107,7 @@
         }
     ],
     "wof:id":85859597,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362580,
+    "wof:lastmodified":1603260897,
     "wof:name":"Dreven en Gaarden",
     "wof:parent_id":1108808029,
     "wof:placetype":"neighbourhood",

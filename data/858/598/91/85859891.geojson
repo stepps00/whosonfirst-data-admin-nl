@@ -18,7 +18,6 @@
     "geom:bbox":"4.50183595526,51.8898601189,4.52156588585,51.9029360731",
     "geom:latitude":51.895348,
     "geom:longitude":4.512301,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":51.895733,
     "lbl:longitude":4.512513,
@@ -105,10 +104,7 @@
         }
     ],
     "wof:id":85859891,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362583,
+    "wof:lastmodified":1603260899,
     "wof:name":"Hillesluis",
     "wof:parent_id":1108805747,
     "wof:placetype":"neighbourhood",

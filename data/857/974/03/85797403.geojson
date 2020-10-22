@@ -18,7 +18,6 @@
     "geom:bbox":"5.15640312008,52.0761923843,5.19515497057,52.0983392269",
     "geom:latitude":52.085308,
     "geom:longitude":5.176395,
-    "gn:id":"",
     "gn:latitude":52.08526,
     "gn:longitude":5.17456,
     "iso:country":"NL",
@@ -119,10 +118,7 @@
         }
     ],
     "wof:id":85797403,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362575,
+    "wof:lastmodified":1603260893,
     "wof:name":"De Uithof",
     "wof:parent_id":1108808669,
     "wof:placetype":"neighbourhood",

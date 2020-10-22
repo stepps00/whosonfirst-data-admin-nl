@@ -18,7 +18,6 @@
     "geom:bbox":"4.35216539002,52.1055270377,4.37233381561,52.1199555432",
     "geom:latitude":52.113272,
     "geom:longitude":4.361263,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":52.114321,
     "lbl:longitude":4.362278,
@@ -107,10 +106,7 @@
         }
     ],
     "wof:id":85859641,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362582,
+    "wof:lastmodified":1603260899,
     "wof:name":"Nieuw-Wassenaar",
     "wof:parent_id":1158831321,
     "wof:placetype":"neighbourhood",

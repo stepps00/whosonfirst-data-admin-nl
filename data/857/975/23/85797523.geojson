@@ -18,7 +18,6 @@
     "geom:bbox":"4.50020056995,51.9017187221,4.5171961128,51.9168246548",
     "geom:latitude":51.910016,
     "geom:longitude":4.510222,
-    "gn:id":"",
     "gn:latitude":51.89918,
     "gn:longitude":4.49651,
     "iso:country":"NL",
@@ -134,10 +133,7 @@
         }
     ],
     "wof:id":85797523,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362577,
+    "wof:lastmodified":1603260895,
     "wof:name":"Feijenoord",
     "wof:parent_id":1108805747,
     "wof:placetype":"neighbourhood",

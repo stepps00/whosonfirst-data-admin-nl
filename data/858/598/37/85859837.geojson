@@ -18,7 +18,6 @@
     "geom:bbox":"4.46931335286,51.9259287413,4.48295508376,51.9331758102",
     "geom:latitude":51.929475,
     "geom:longitude":4.476193,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":51.929383,
     "lbl:longitude":4.476689,
@@ -112,10 +111,7 @@
         }
     ],
     "wof:id":85859837,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362583,
+    "wof:lastmodified":1603260899,
     "wof:name":"Agniesebuurt",
     "wof:parent_id":1108804843,
     "wof:placetype":"neighbourhood",

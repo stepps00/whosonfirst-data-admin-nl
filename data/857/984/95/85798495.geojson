@@ -18,7 +18,6 @@
     "geom:bbox":"6.88423695414,52.3075627736,6.91779852938,52.3223958861",
     "geom:latitude":52.315326,
     "geom:longitude":6.901092,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":52.30715,
     "lbl:longitude":6.901573,
@@ -111,10 +110,7 @@
         }
     ],
     "wof:id":85798495,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362566,
+    "wof:lastmodified":1603260886,
     "wof:name":"De Thij",
     "wof:parent_id":101807227,
     "wof:placetype":"neighbourhood",

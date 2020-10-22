@@ -18,7 +18,6 @@
     "geom:bbox":"4.40077106693,51.9056514136,4.4087959839,51.9098208858",
     "geom:latitude":51.907605,
     "geom:longitude":4.405247,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":51.905499,
     "lbl:longitude":4.404101,
@@ -117,10 +116,7 @@
         }
     ],
     "wof:id":85859715,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362581,
+    "wof:lastmodified":1603260898,
     "wof:name":"Noletbuurt",
     "wof:parent_id":1158829553,
     "wof:placetype":"neighbourhood",

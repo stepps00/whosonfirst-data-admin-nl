@@ -18,7 +18,6 @@
     "geom:bbox":"4.3407464435,52.0913739258,4.36330901205,52.1057613133",
     "geom:latitude":52.098575,
     "geom:longitude":4.352057,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":52.101587,
     "lbl:longitude":4.357579,
@@ -102,10 +101,7 @@
         }
     ],
     "wof:id":85859637,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362582,
+    "wof:lastmodified":1603260899,
     "wof:name":"Marlot",
     "wof:parent_id":1108808111,
     "wof:placetype":"neighbourhood",

@@ -18,7 +18,6 @@
     "geom:bbox":"4.37916295511,52.0914655632,4.39259685037,52.0994277175",
     "geom:latitude":52.095571,
     "geom:longitude":4.386033,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":52.095608,
     "lbl:longitude":4.384232,
@@ -107,10 +106,7 @@
         }
     ],
     "wof:id":85859661,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362582,
+    "wof:lastmodified":1603260898,
     "wof:name":"De Zijde",
     "wof:parent_id":1158831335,
     "wof:placetype":"neighbourhood",

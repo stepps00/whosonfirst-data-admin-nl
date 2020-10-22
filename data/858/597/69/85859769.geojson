@@ -18,7 +18,6 @@
     "geom:bbox":"4.43452099965,51.9039325196,4.44826625442,51.9123353931",
     "geom:latitude":51.908431,
     "geom:longitude":4.443032,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":51.90855,
     "lbl:longitude":4.443728,
@@ -100,10 +99,7 @@
         }
     ],
     "wof:id":85859769,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362581,
+    "wof:lastmodified":1603260897,
     "wof:name":"Bospolder",
     "wof:parent_id":1108805753,
     "wof:placetype":"neighbourhood",

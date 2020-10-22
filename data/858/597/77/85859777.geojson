@@ -18,7 +18,6 @@
     "geom:bbox":"4.43753226632,51.9084914091,4.45821012485,51.9230755637",
     "geom:latitude":51.916768,
     "geom:longitude":4.450046,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":51.916477,
     "lbl:longitude":4.450649,
@@ -106,10 +105,7 @@
         }
     ],
     "wof:id":85859777,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362581,
+    "wof:lastmodified":1603260898,
     "wof:name":"Nieuwe Westen",
     "wof:parent_id":1108805753,
     "wof:placetype":"neighbourhood",

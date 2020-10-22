@@ -18,7 +18,6 @@
     "geom:bbox":"5.92691885027,51.9228326218,5.93994814417,51.9309079332",
     "geom:latitude":51.92677,
     "geom:longitude":5.933881,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":51.935798,
     "lbl:longitude":5.932714,
@@ -104,10 +103,7 @@
         }
     ],
     "wof:id":85859957,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362580,
+    "wof:lastmodified":1603260897,
     "wof:name":"Het Zand",
     "wof:parent_id":101754753,
     "wof:placetype":"neighbourhood",

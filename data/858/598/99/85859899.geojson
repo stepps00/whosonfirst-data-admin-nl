@@ -18,7 +18,6 @@
     "geom:bbox":"4.51249765129,51.8999670544,4.54246594648,51.916630999",
     "geom:latitude":51.908066,
     "geom:longitude":4.526857,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":51.908345,
     "lbl:longitude":4.526822,
@@ -113,10 +112,7 @@
         }
     ],
     "wof:id":85859899,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362583,
+    "wof:lastmodified":1603260900,
     "wof:name":"De Esch",
     "wof:parent_id":1158831799,
     "wof:placetype":"neighbourhood",

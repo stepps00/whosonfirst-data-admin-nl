@@ -18,7 +18,6 @@
     "geom:bbox":"4.45785919696,51.8764954999,4.46436102385,51.8841178811",
     "geom:latitude":51.880558,
     "geom:longitude":4.461335,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":51.880329,
     "lbl:longitude":4.461971,
@@ -113,10 +112,7 @@
         }
     ],
     "wof:id":85859781,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362581,
+    "wof:lastmodified":1603260898,
     "wof:name":"Wielewaal",
     "wof:parent_id":1108804837,
     "wof:placetype":"neighbourhood",

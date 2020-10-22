@@ -18,7 +18,6 @@
     "geom:bbox":"4.43500377436,51.9095034839,4.44978874268,51.9165152733",
     "geom:latitude":51.912712,
     "geom:longitude":4.442634,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":51.912932,
     "lbl:longitude":4.442434,
@@ -103,10 +102,7 @@
         }
     ],
     "wof:id":85859765,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362581,
+    "wof:lastmodified":1603260898,
     "wof:name":"Tussendijken",
     "wof:parent_id":1108805753,
     "wof:placetype":"neighbourhood",

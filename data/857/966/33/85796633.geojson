@@ -9,7 +9,6 @@
     "geom:bbox":"6.021383,50.758406,6.021383,50.758406",
     "geom:latitude":50.758406,
     "geom:longitude":6.021383,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:bbox":"6.016383,50.753406,6.026383,50.763406",
     "lbl:latitude":50.758406,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85796633,
-    "wof:lang":[
-        "ger"
-    ],
-    "wof:lastmodified":1582362573,
+    "wof:lastmodified":1603260891,
     "wof:name":"Vaelserquartier",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

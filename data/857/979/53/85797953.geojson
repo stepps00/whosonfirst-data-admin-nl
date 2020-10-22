@@ -18,7 +18,6 @@
     "geom:bbox":"5.94843096505,52.2293667632,5.95781207508,52.2390741456",
     "geom:latitude":52.234707,
     "geom:longitude":5.953095,
-    "gn:id":"",
     "gn:latitude":52.2339,
     "gn:longitude":5.95275,
     "iso:country":"NL",
@@ -145,10 +144,7 @@
         }
     ],
     "wof:id":85797953,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362568,
+    "wof:lastmodified":1603260888,
     "wof:name":"Het Loo",
     "wof:parent_id":1158783959,
     "wof:placetype":"neighbourhood",

@@ -18,7 +18,6 @@
     "geom:bbox":"4.38946118021,52.09656712,4.40389990731,52.1040523583",
     "geom:latitude":52.100467,
     "geom:longitude":4.396664,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":52.100277,
     "lbl:longitude":4.396383,
@@ -104,10 +103,7 @@
         }
     ],
     "wof:id":85859709,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362581,
+    "wof:lastmodified":1603260898,
     "wof:name":"Duivenvoorde",
     "wof:parent_id":1158831335,
     "wof:placetype":"neighbourhood",

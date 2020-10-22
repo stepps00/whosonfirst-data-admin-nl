@@ -18,7 +18,6 @@
     "geom:bbox":"4.32617199606,52.0610126506,4.35551870275,52.0752860381",
     "geom:latitude":52.068572,
     "geom:longitude":4.340516,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":52.068492,
     "lbl:longitude":4.338901,
@@ -112,10 +111,7 @@
         }
     ],
     "wof:id":85859633,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362582,
+    "wof:lastmodified":1603260898,
     "wof:name":"Binckhorst",
     "wof:parent_id":1108808077,
     "wof:placetype":"neighbourhood",

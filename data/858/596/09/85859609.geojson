@@ -18,7 +18,6 @@
     "geom:bbox":"4.27484430337,52.0496072871,4.29592605528,52.0615434257",
     "geom:latitude":52.056081,
     "geom:longitude":4.285528,
-    "gn:id":"",
     "iso:country":"NL",
     "lbl:latitude":52.05603,
     "lbl:longitude":4.286454,
@@ -105,10 +104,7 @@
         }
     ],
     "wof:id":85859609,
-    "wof:lang":[
-        "dut"
-    ],
-    "wof:lastmodified":1582362582,
+    "wof:lastmodified":1603260899,
     "wof:name":"Zuiderpark",
     "wof:parent_id":1108808057,
     "wof:placetype":"neighbourhood",
